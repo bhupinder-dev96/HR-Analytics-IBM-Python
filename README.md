@@ -1,18 +1,16 @@
-# HR Analytics using Python
+# HR Analytics: IBM Employee Attrition Analysis using Python
 
-## IBM Employee Attrition Analysis
+## 📊 Project Overview
 
-### Project Overview
+This project analyzes the IBM HR Analytics Employee Attrition dataset to identify the key factors influencing employee turnover using Python.
 
-This project analyzes the IBM HR Analytics Employee Attrition dataset using Python to identify the major factors influencing employee turnover.
-
-The analysis covers data inspection, data cleaning, exploratory data analysis (EDA), statistical analysis, visualization, and business recommendations. The objective is to support HR managers in making data-driven decisions to improve employee retention.
+The project includes data cleaning, exploratory data analysis (EDA), statistical analysis, and data visualization to uncover workforce trends and generate actionable business recommendations for improving employee retention and workforce planning.
 
 ---
 
 ## Dataset
 
-* Dataset: IBM HR Analytics Employee Attrition & Performance
+* Source: IBM HR Analytics Employee Attrition & Performance Dataset
 * Total Employees: **1,470**
 * Features: **35**
 
@@ -51,7 +49,20 @@ The analysis covers data inspection, data cleaning, exploratory data analysis (E
 
 ---
 
-## Business Recommendations
+## 📈 Results
+
+The analysis identified several factors strongly associated with employee attrition:
+
+- Overall employee attrition rate: **16%**
+- Sales department recorded the highest employee turnover.
+- Employees working overtime experienced nearly **3× higher attrition** than employees without overtime.
+- Employees with the lowest job satisfaction exhibited the highest attrition.
+- Frequent business travel increased the likelihood of employee turnover.
+- Total Working Years and Monthly Income showed a **strong positive correlation (0.77)**.
+  
+---
+
+## 💼 Business Recommendations
 
 * Reduce excessive overtime.
 * Improve employee engagement initiatives.
@@ -76,16 +87,21 @@ HR-Analytics-IBM-Python/
 
 ---
 
-## Skills Demonstrated
+## 🛠 Skills Demonstrated
 
-* Data Cleaning
-* Exploratory Data Analysis (EDA)
-* Data Visualization
-* GroupBy & Aggregation
-* Correlation Analysis
-* Business Analytics
-* HR Analytics
-* Business Storytelling
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- GroupBy & Aggregation
+- Correlation Analysis
+- Business Analytics
+- HR Analytics
+- Business Storytelling
+- Git & GitHub
 
 ---
 
@@ -105,6 +121,19 @@ HR-Analytics-IBM-Python/
 
 ---
 
-## Author
+## 🚀 Future Improvements
 
-Bhupinder Kaur
+- Build an interactive HR dashboard using Power BI.
+- Develop a machine learning model to predict employee attrition.
+- Deploy the project using Streamlit.
+- Perform advanced predictive HR analytics.
+
+---
+
+## 👩‍💻 Author
+
+**Bhupinder Kaur**
+
+Data Analyst | Python | SQL | Power BI | Excel
+
+LinkedIn: https://www.linkedin.com/in/bhupinder-kaur-20142337b/
