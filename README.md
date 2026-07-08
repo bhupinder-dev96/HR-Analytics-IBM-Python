@@ -89,6 +89,22 @@ HR-Analytics-IBM-Python/
 
 ---
 
+## Sample Visualizations
+
+### Department-wise Attrition
+
+![Department Attrition](images/04_department_attrition.png)
+
+### Overtime vs Attrition
+
+![Overtime](images/05_overtime_attrition.png)
+
+### Job Satisfaction vs Attrition
+
+![Job Satisfaction](images/06_job_satisfaction_attrition.png)
+
+---
+
 ## Author
 
 Bhupinder Kaur
